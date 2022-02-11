@@ -11,7 +11,7 @@ import {
 	ShapeUtils,
 	Vector2,
 	Vector3
-} from 'three';
+} from 'https://lizgar.github.io/three.js/build/three.js';
 
 class SVGLoader extends Loader {
 
